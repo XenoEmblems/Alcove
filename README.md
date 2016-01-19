@@ -1,7 +1,7 @@
 # Alcove
 Wordpress website built for the Indie Band Alcove.
 
-Created and Edited with the TA-Music Wordpress Theme with custom CSS.
+Created and Edited using the TA-Music Wordpress Theme with custom CSS.
 
 http://themeart.co/free-theme/ta-music/
 
